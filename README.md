@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas 👋
 
-Analista fiscal com foco em finanças e FP&A. Projeto de portfólio. em Ribeirão Preto (SP).
+Analista fiscal em Ribeirão Preto (SP), com foco em finanças e FP&A.
 Uno o conhecimento tributário do dia a dia com **Python e Excel** para transformar dados fiscais em informação para decisão.
 
 - 📊 Atuo com uma carteira de 50 empresas no Simples Nacional, Lucro Presumido e Lucro Real
@@ -20,10 +20,10 @@ Script que lê lotes de XMLs de NF-e, valida as notas e gera DRE mensal, margem 
 
 ## 🛠️ Ferramentas
 
-**Análise:** Excel avançado · Python (pandas, openpyxl) · Power BI (básico)
-**Fiscal:** SPED Fiscal · EFD-Contribuições · ICMS/ICMS-ST · PIS/COFINS · Reforma Tributária (CBS/IBS)
-**Sistemas:** Domínio · Omie · SAP · TOTVS
-
+- **Análise:** Excel avançado · Python (pandas, openpyxl) · Power BI (básico)
+- **Fiscal:** SPED Fiscal · EFD-Contribuições · ICMS/ICMS-ST · PIS/COFINS · Reforma Tributária (CBS/IBS)
+- **Sistemas:** Domínio · Omie · SAP · TOTVS
+  
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/lucas-silva-b79812181/) · lucassilva5638@gmail.com
