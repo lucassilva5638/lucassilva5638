@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas 👋
 
 Analista fiscal em Ribeirão Preto (SP), com foco em finanças e FP&A.
-Uno conhecimento tributário do dia a dia com **Python e Excel** para transformar dados fiscais em informação para decisão.
+Junto conhecimento tributário do dia a dia com **Python e Excel** para transformar dados fiscais em informação para decisão.
 
 - 📊 Atuo com uma carteira de 50 empresas no Simples Nacional, Lucro Presumido e Lucro Real
 - 🧾 Foco atual: impacto da Reforma Tributária (CBS/IBS) no resultado das empresas
